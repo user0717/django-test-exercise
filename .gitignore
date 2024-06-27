@@ -1,0 +1,6 @@
+venv/
+todo/
+__pycache__/
+*.pyc
+*.log
+db.sqlite3
